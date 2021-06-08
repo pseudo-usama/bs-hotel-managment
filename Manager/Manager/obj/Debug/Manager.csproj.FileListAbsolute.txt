@@ -1,0 +1,52 @@
+F:\3UOG\5Fifth Semester\2VP\1Programs\Project\Manager\Manager\bin\Debug\Manager.exe.config
+F:\3UOG\5Fifth Semester\2VP\1Programs\Project\Manager\Manager\bin\Debug\Manager.exe
+F:\3UOG\5Fifth Semester\2VP\1Programs\Project\Manager\Manager\bin\Debug\Manager.pdb
+F:\3UOG\5Fifth Semester\2VP\1Programs\Project\Manager\Manager\obj\Debug\Manager.csprojResolveAssemblyReference.cache
+F:\3UOG\5Fifth Semester\2VP\1Programs\Project\Manager\Manager\obj\Debug\Manager.MainForm.resources
+F:\3UOG\5Fifth Semester\2VP\1Programs\Project\Manager\Manager\obj\Debug\Manager.Properties.Resources.resources
+F:\3UOG\5Fifth Semester\2VP\1Programs\Project\Manager\Manager\obj\Debug\Manager.csproj.GenerateResource.Cache
+F:\3UOG\5Fifth Semester\2VP\1Programs\Project\Manager\Manager\obj\Debug\Manager.exe
+F:\3UOG\5Fifth Semester\2VP\1Programs\Project\Manager\Manager\obj\Debug\Manager.pdb
+F:\3UOG\5Fifth Semester\2VP\1Programs\Project\Manager\Manager\obj\Debug\Manager.Items.resources
+F:\3UOG\5Fifth Semester\2VP\1Programs\Project\Manager\Manager\obj\Debug\Manager.Add_Item.resources
+F:\3UOG\5Fifth Semester\2VP\1Programs\Project\Manager\Manager\obj\Debug\Manager.Modify_Item.resources
+F:\3UOG\5Fifth Semester\2VP\1Programs\Project\Manager\Manager\obj\Debug\Manager.Delete_Item.resources
+F:\3UOG\5Fifth Semester\2VP\1Programs\Project\Manager\Manager\obj\Debug\Manager.All_Orders.resources
+F:\3UOG\5Fifth Semester\2VP\1Programs\Project\Manager\Manager\obj\Debug\Manager.Settings.resources
+F:\3UOG\5Fifth Semester\2VP\1Programs\Project\Manager\Manager\obj\Debug\Manager.AllItems.resources
+F:\3UOG\5Fifth Semester\2VP\1Programs\Project\Project - Backup 7\Manager\Manager\bin\Debug\Manager.exe.config
+F:\3UOG\5Fifth Semester\2VP\1Programs\Project\Project - Backup 7\Manager\Manager\obj\Debug\Manager.exe
+F:\3UOG\5Fifth Semester\2VP\1Programs\Project\Project - Backup 7\Manager\Manager\obj\Debug\Manager.pdb
+F:\3UOG\5Fifth Semester\2VP\1Programs\Project\new\good\Manager\Manager\bin\Debug\Manager.exe.config
+F:\3UOG\5Fifth Semester\2VP\1Programs\Project\new\good\Manager\Manager\obj\Debug\Manager.exe
+F:\3UOG\5Fifth Semester\2VP\1Programs\Project\new\good\Manager\Manager\obj\Debug\Manager.pdb
+F:\3UOG\5Fifth Semester\2VP\1Programs\Project\new\good\Manager\Manager\bin\Debug\Manager.exe
+F:\3UOG\5Fifth Semester\2VP\1Programs\Project\new\good\Manager\Manager\bin\Debug\Manager.pdb
+F:\3UOG\5Fifth Semester\2VP\1Programs\Project\new\good\Manager\Manager\obj\Debug\Manager.csprojResolveAssemblyReference.cache
+F:\3UOG\5Fifth Semester\2VP\1Programs\Project\new\good\Manager\Manager\obj\Debug\Manager.Add_Item.resources
+F:\3UOG\5Fifth Semester\2VP\1Programs\Project\new\good\Manager\Manager\obj\Debug\Manager.All_Orders.resources
+F:\3UOG\5Fifth Semester\2VP\1Programs\Project\new\good\Manager\Manager\obj\Debug\Manager.AllItems.resources
+F:\3UOG\5Fifth Semester\2VP\1Programs\Project\new\good\Manager\Manager\obj\Debug\Manager.Delete_Item.resources
+F:\3UOG\5Fifth Semester\2VP\1Programs\Project\new\good\Manager\Manager\obj\Debug\Manager.MainForm.resources
+F:\3UOG\5Fifth Semester\2VP\1Programs\Project\new\good\Manager\Manager\obj\Debug\Manager.Items.resources
+F:\3UOG\5Fifth Semester\2VP\1Programs\Project\new\good\Manager\Manager\obj\Debug\Manager.Modify_Item.resources
+F:\3UOG\5Fifth Semester\2VP\1Programs\Project\new\good\Manager\Manager\obj\Debug\Manager.Properties.Resources.resources
+F:\3UOG\5Fifth Semester\2VP\1Programs\Project\new\good\Manager\Manager\obj\Debug\Manager.Settings.resources
+F:\3UOG\5Fifth Semester\2VP\1Programs\Project\new\good\Manager\Manager\obj\Debug\Manager.csproj.GenerateResource.Cache
+D:\else\DELL\Desktop\5th old data\Old Data\VP\Manager\Manager\bin\Debug\Manager.exe.config
+D:\else\DELL\Desktop\5th old data\Old Data\VP\Manager\Manager\bin\Debug\Manager.exe
+D:\else\DELL\Desktop\5th old data\Old Data\VP\Manager\Manager\bin\Debug\Manager.pdb
+D:\else\DELL\Desktop\5th old data\Old Data\VP\Manager\Manager\obj\Debug\Manager.csprojAssemblyReference.cache
+D:\else\DELL\Desktop\5th old data\Old Data\VP\Manager\Manager\obj\Debug\Manager.Add_Item.resources
+D:\else\DELL\Desktop\5th old data\Old Data\VP\Manager\Manager\obj\Debug\Manager.All_Orders.resources
+D:\else\DELL\Desktop\5th old data\Old Data\VP\Manager\Manager\obj\Debug\Manager.AllItems.resources
+D:\else\DELL\Desktop\5th old data\Old Data\VP\Manager\Manager\obj\Debug\Manager.Delete_Item.resources
+D:\else\DELL\Desktop\5th old data\Old Data\VP\Manager\Manager\obj\Debug\Manager.MainForm.resources
+D:\else\DELL\Desktop\5th old data\Old Data\VP\Manager\Manager\obj\Debug\Manager.Items.resources
+D:\else\DELL\Desktop\5th old data\Old Data\VP\Manager\Manager\obj\Debug\Manager.Modify_Item.resources
+D:\else\DELL\Desktop\5th old data\Old Data\VP\Manager\Manager\obj\Debug\Manager.Properties.Resources.resources
+D:\else\DELL\Desktop\5th old data\Old Data\VP\Manager\Manager\obj\Debug\Manager.Settings.resources
+D:\else\DELL\Desktop\5th old data\Old Data\VP\Manager\Manager\obj\Debug\Manager.csproj.GenerateResource.cache
+D:\else\DELL\Desktop\5th old data\Old Data\VP\Manager\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+D:\else\DELL\Desktop\5th old data\Old Data\VP\Manager\Manager\obj\Debug\Manager.exe
+D:\else\DELL\Desktop\5th old data\Old Data\VP\Manager\Manager\obj\Debug\Manager.pdb
