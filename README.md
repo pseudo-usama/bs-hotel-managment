@@ -8,7 +8,7 @@ This project is developed in Visual C# and Microsoft SQL server database.
 The project is divided in two seperate softwares.
 
 ## Manager
-This part is aimed for [manager](manager/). Where he can perform these actions.
+This part is aimed for [Manager](Manager/). Where he can perform these actions.
  - Add cashier.
  - Add, update, delete new items.
  - View sells, revenue.
@@ -16,7 +16,7 @@ This part is aimed for [manager](manager/). Where he can perform these actions.
  - Login/Logout
 
 ## Cashier
-This is the second part which is used by [cashier](cashier/). A cashier can perform these tasks.
+This is the second part which is used by [Cashier](Cashier/). A cashier can perform these tasks.
  - Add orders.
  - View items.
  - Change name password.
