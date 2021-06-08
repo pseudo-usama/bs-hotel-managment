@@ -1,0 +1,33 @@
+F:\3UOG\5Fifth Semester\2VP\1Programs\Project\Cashier\Cashier\bin\Debug\Cashier.exe.config
+F:\3UOG\5Fifth Semester\2VP\1Programs\Project\Cashier\Cashier\bin\Debug\Cashier.exe
+F:\3UOG\5Fifth Semester\2VP\1Programs\Project\Cashier\Cashier\bin\Debug\Cashier.pdb
+F:\3UOG\5Fifth Semester\2VP\1Programs\Project\Cashier\Cashier\obj\Debug\Cashier.csprojResolveAssemblyReference.cache
+F:\3UOG\5Fifth Semester\2VP\1Programs\Project\Cashier\Cashier\obj\Debug\Cashier.Properties.Resources.resources
+F:\3UOG\5Fifth Semester\2VP\1Programs\Project\Cashier\Cashier\obj\Debug\Cashier.csproj.GenerateResource.Cache
+F:\3UOG\5Fifth Semester\2VP\1Programs\Project\Cashier\Cashier\obj\Debug\Cashier.exe
+F:\3UOG\5Fifth Semester\2VP\1Programs\Project\Cashier\Cashier\obj\Debug\Cashier.pdb
+F:\3UOG\5Fifth Semester\2VP\1Programs\Project\Cashier\Cashier\obj\Debug\Cashier.Add.resources
+F:\3UOG\5Fifth Semester\2VP\1Programs\Project\Cashier\Cashier\obj\Debug\Cashier.MainForm.resources
+F:\3UOG\5Fifth Semester\2VP\1Programs\Project\Cashier\Cashier\obj\Debug\Cashier.Item.resources
+F:\3UOG\5Fifth Semester\2VP\1Programs\Project\Cashier\Cashier\obj\Debug\Cashier.Modify.resources
+F:\3UOG\5Fifth Semester\2VP\1Programs\Project\Cashier\Cashier\obj\Debug\Cashier.All_Items.resources
+F:\3UOG\5Fifth Semester\2VP\1Programs\Project\Cashier\Cashier\obj\Debug\Manager.WaterMarkTextBox.resources
+F:\3UOG\5Fifth Semester\2VP\1Programs\Project\Cashier\Cashier\obj\Debug\Cashier.AllOrder.resources
+F:\3UOG\5Fifth Semester\2VP\1Programs\Project\Cashier\Cashier\obj\Debug\Cashier.settings.resources
+D:\else\DELL\Desktop\5th old data\Old Data\VP\Cashier\Cashier\bin\Debug\Cashier.exe.config
+D:\else\DELL\Desktop\5th old data\Old Data\VP\Cashier\Cashier\bin\Debug\Cashier.exe
+D:\else\DELL\Desktop\5th old data\Old Data\VP\Cashier\Cashier\bin\Debug\Cashier.pdb
+D:\else\DELL\Desktop\5th old data\Old Data\VP\Cashier\Cashier\obj\Debug\Cashier.csprojAssemblyReference.cache
+D:\else\DELL\Desktop\5th old data\Old Data\VP\Cashier\Cashier\obj\Debug\Cashier.Add.resources
+D:\else\DELL\Desktop\5th old data\Old Data\VP\Cashier\Cashier\obj\Debug\Cashier.All_Items.resources
+D:\else\DELL\Desktop\5th old data\Old Data\VP\Cashier\Cashier\obj\Debug\Cashier.AllOrder.resources
+D:\else\DELL\Desktop\5th old data\Old Data\VP\Cashier\Cashier\obj\Debug\Cashier.MainForm.resources
+D:\else\DELL\Desktop\5th old data\Old Data\VP\Cashier\Cashier\obj\Debug\Cashier.Item.resources
+D:\else\DELL\Desktop\5th old data\Old Data\VP\Cashier\Cashier\obj\Debug\Cashier.Modify.resources
+D:\else\DELL\Desktop\5th old data\Old Data\VP\Cashier\Cashier\obj\Debug\Cashier.Properties.Resources.resources
+D:\else\DELL\Desktop\5th old data\Old Data\VP\Cashier\Cashier\obj\Debug\Cashier.settings.resources
+D:\else\DELL\Desktop\5th old data\Old Data\VP\Cashier\Cashier\obj\Debug\Manager.WaterMarkTextBox.resources
+D:\else\DELL\Desktop\5th old data\Old Data\VP\Cashier\Cashier\obj\Debug\Cashier.csproj.GenerateResource.cache
+D:\else\DELL\Desktop\5th old data\Old Data\VP\Cashier\Cashier\obj\Debug\Cashier.csproj.CoreCompileInputs.cache
+D:\else\DELL\Desktop\5th old data\Old Data\VP\Cashier\Cashier\obj\Debug\Cashier.exe
+D:\else\DELL\Desktop\5th old data\Old Data\VP\Cashier\Cashier\obj\Debug\Cashier.pdb
