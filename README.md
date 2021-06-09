@@ -22,7 +22,7 @@ This is the second part which is used by [Cashier](Cashier/). A cashier can perf
  - Change name password
  - Login/Logout
 
- ![Cashier video](images/cashier.mp4)
+ ![Cashier video](images/cashier.gif)
 
 ## Database template
 [hotel_database.bacpac](hotel_database.bacpac) is the database template file. Import this in Microsoft SQL server.
