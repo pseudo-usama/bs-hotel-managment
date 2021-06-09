@@ -15,6 +15,8 @@ This part is aimed for [Manager](Manager/). Where he can perform these actions.
  - View orders
  - Login/Logout
 
+![Manager GIF](images/manager.gif)
+
 ## Cashier
 This is the second part which is used by [Cashier](Cashier/). A cashier can perform these tasks.
  - Add orders
@@ -22,7 +24,7 @@ This is the second part which is used by [Cashier](Cashier/). A cashier can perf
  - Change name password
  - Login/Logout
 
- ![Cashier video](images/cashier.gif)
+![Cashier GIF](images/cashier.gif)
 
 ## Database template
 [hotel_database.bacpac](hotel_database.bacpac) is the database template file. Import this in Microsoft SQL server.
