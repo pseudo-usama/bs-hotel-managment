@@ -9,17 +9,20 @@ The project is divided in two seperate softwares.
 
 ## Manager
 This part is aimed for [Manager](Manager/). Where he can perform these actions.
- - Add cashier.
- - Add, update, delete new items.
- - View sells, revenue.
- - View orders.
+ - Add cashier
+ - Add, update, delete new items
+ - View sells, revenue
+ - View orders
  - Login/Logout
 
 ## Cashier
 This is the second part which is used by [Cashier](Cashier/). A cashier can perform these tasks.
- - Add orders.
- - View items.
- - Change name password.
+ - Add orders
+ - View items
+ - Change name password
+ - Login/Logout
+
+ ![Cashier video](images/cashier.mp4)
 
 ## Database template
 [hotel_database.bacpac](hotel_database.bacpac) is the database template file. Import this in Microsoft SQL server.
